@@ -3,7 +3,7 @@
 	    {
 	    "is-on-playstore":"true",
 	    "ads-prio": "2",
-	     "time-ads-in":"30",
+	     "time-ads-in":"60",
       	 "pkn-replace":"aaa.bbb.ccc"
         }
     ]
