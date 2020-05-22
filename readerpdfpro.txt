@@ -1,7 +1,7 @@
 {
     "data-pdf":[
 	    {
-	    "is-on-playstore":"false",
+	    "is-on-playstore":"true",
 	    "ads-prio": "2",
 	     "time-ads-in":"30",
       	 "pkn-replace":"aaa.bbb.ccc"
