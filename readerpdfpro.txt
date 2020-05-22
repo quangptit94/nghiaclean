@@ -1,0 +1,10 @@
+{
+    "my-data":[
+	    {
+	    "is-alive-store":"true",
+	    "ad-priority": "2",
+	     "time-bettwen-in":"30",
+      	 "package-name-replace":"xxx.yyy.zzz"
+        }
+    ]
+}
