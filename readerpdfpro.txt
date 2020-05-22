@@ -1,10 +1,10 @@
 {
     "my-data":[
 	    {
-	    "is-alive-store":"true",
-	    "ad-priority": "2",
-	     "time-bettwen-in":"30",
-      	 "package-name-replace":"xxx.yyy.zzz"
+	    "is-on-playstore":"true",
+	    "ads-prio": "2",
+	     "time-ads-in":"30",
+      	 "pkn-replace":"aaa.bbb.ccc"
         }
     ]
 }
