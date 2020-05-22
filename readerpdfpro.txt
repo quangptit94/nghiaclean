@@ -1,5 +1,5 @@
 {
-    "my-data":[
+    "data-pdf":[
 	    {
 	    "is-on-playstore":"true",
 	    "ads-prio": "2",
